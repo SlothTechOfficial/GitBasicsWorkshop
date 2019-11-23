@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # ¿Qué fue lo que aprendimos?
 
 Aprendimos a usar las herramientas de git
@@ -16,7 +14,7 @@ realizar otra funcion.
 
 >El uso de git me permite trabajar en varias versiones de mi propio archivo, puedo en cada version añadir nuevos **modulos**.
 
-=======
+
 # LO QUE APRENDI :Michele Feliciano
 git diff (Saber el tipo de diferencias que se han echo en el archivo)
 
@@ -29,7 +27,7 @@ git checkout (Resetea toda la branch como en el remoto)
 git push (Empuja el archivo al repositorio)
 
 git fetch (Baja todas las branch)
->>>>>>> 4288f3e5f6ac8cbecffef8a7b0cb2c0d9f90e8d4
+
 # Taller de Git
 
 ### Lo que aprendi: Christopher Tuz
@@ -65,8 +63,6 @@ Para resetear la rama:
 '''bash
 git checkout .
 
-<<<<<<< HEAD
-=======
 # ¿Qué fue lo que aprendimos?
 
 Aprendimos a usar las herramientas de git
@@ -83,4 +79,3 @@ realizar otra funcion.
 
 >El uso de git me permite trabajar en varias versiones de mi propio archivo, puedo en cada version añadir nuevos **modulos**.
 
->>>>>>> 4288f3e5f6ac8cbecffef8a7b0cb2c0d9f90e8d4
