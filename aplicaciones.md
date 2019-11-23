@@ -1,4 +1,4 @@
-#Aplicaciones sobre el uso de Git.
+# Aplicaciones sobre el uso de Git.
 
 ## En la universidad
 Una de las aplicaciones que le daríamos a Git con lo aprendido hoy en el taller que impartió la comunidad
